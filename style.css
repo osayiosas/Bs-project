@@ -1,0 +1,6 @@
+[class*"col"]{
+    padding: 1rem;
+    background-color: rgb(25, 133, 133);
+    border: 1px solid rgb(190, 132, 23);
+    color: rgb(206, 37, 37);
+}
